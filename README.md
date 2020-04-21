@@ -15,9 +15,9 @@ C y Arduino
 
 # Subprogramas
   Función "lecturaflex":
-     Esta función leerá la resitencia producida por el sensor y transformará el valor a grados.
-     Los argumentos a los que se le asociarán las lecturas son las variables de: "resispulgar", "resiscorazon", "resismenique", "resisanular", "resisindice". Usaremos estas variables para medir la resistencia del sensor de cada dedo.
-     Se tomarían 5 nuevas variables: "gradospulgar", "gradoscorazon", "gradosmenique", "gradosanular", "gradosindice". Las nuevas variables estarían asociadas a un rango de grados que permite que no perdamos valores en la lectura de datos.
+  Esta función leerá la resitencia producida por el sensor y transformará el valor a grados.
+  Los argumentos a los que se le asociarán las lecturas son las variables de: "resispulgar", "resiscorazon", "resismenique",   "resisanular", "resisindice". Usaremos estas variables para medir la resistencia del sensor de cada dedo.
+  Se tomarían 5 nuevas variables: "gradospulgar", "gradoscorazon", "gradosmenique", "gradosanular", "gradosindice". Las nuevas variables estarían asociadas a un rango de grados que permite que no perdamos valores en la lectura de datos.
      
     
      
