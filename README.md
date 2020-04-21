@@ -12,3 +12,5 @@ El objetivo principal es poder permitir que la gente que no puede hablar, se pue
 
 # Lenguajes de programación:
 C y Arduino
+
+# Subprogramas
