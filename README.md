@@ -31,7 +31,6 @@ C y Arduino
   
     Esta función establecerá una relación entre grados y letras en el alfabeto de lenguaje de signos preestablecido. 
     La salida de esta funcion sería una variable int que será la posicion del vector para imprimir la letra por pantalla en la siguiente funcion.
-    Se tendría un nuevo vector al que se le asociaria la posición definida en la función previa y permite mostrar la palabra o frase representada mediante leguanje de signos. 
     
   Función "mostrarenpantalla":
   
