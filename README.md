@@ -4,7 +4,7 @@ SignGlove (guante de signos) va a consistir en poder traducir mensajes con lengu
 
 ## Integrantes del equipo
 
-Álvaro Sequeira Bárcena (@AlvaroSequeira) y Laura Estela Polaira Solera (@lauraepolainasolera)
+Álvaro Sequeira Bárcena (@AlvaroSequeira) y Laura Estela Polaina Solera (@lauraepolainasolera)
 
 ## Objetivos del trabajo
 
