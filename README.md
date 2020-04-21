@@ -14,17 +14,23 @@ El objetivo principal es poder permitir que la gente que no puede hablar, se pue
 C y Arduino
 
 # Subprogramas
+
   Función "lecturaflex":
-  Esta función leerá la resitencia producida por el sensor y transformará el valor a grados.
-  Los argumentos a los que se le asociarán las lecturas son las variables de: "resispulgar", "resiscorazon", "resismenique",   "resisanular", "resisindice". Usaremos estas variables para medir la resistencia del sensor de cada dedo.
-  Se tomarían 5 nuevas variables: "gradospulgar", "gradoscorazon", "gradosmenique", "gradosanular", "gradosindice". Las nuevas variables estarían asociadas a un rango de grados que permite que no perdamos valores en la lectura de datos.
+  
+    Esta función leerá la resitencia producida por el sensor y transformará el valor a grados.
+    Los argumentos a los que se le asociarán las lecturas son las variables de: "resispulgar", "resiscorazon", "resismenique",   "resisanular", "resisindice". Usaremos estas variables para medir la resistencia del sensor de cada dedo.
+    Se tomarían 5 nuevas variables: "gradospulgar", "gradoscorazon", "gradosmenique", "gradosanular", "gradosindice". Las nuevas variables estarían asociadas a un rango de grados que permite que no perdamos valores en la lectura de datos.
      
-    
+  Función "definirletra":
+  
+    Esta función permite determinar un rango de grados en cada dedo que permit diferenciar una letra respecto de otra. 
      
   Función "asociarletra":
+  
     Esta función establecerá una relación entre grados y letras en el alfabeto de lenguaje de signos preestablecido. 
     
   Función "mostrarenpantalla":
+  
     Esta función obtiene el valor de cada letra que se este leyendo en ese momento e imprimirlo en pantalla.
   
   
