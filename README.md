@@ -14,3 +14,10 @@ El objetivo principal es poder permitir que la gente que no puede hablar, se pue
 C y Arduino
 
 # Subprogramas
+  Función "lecturaflex":
+     Esta función leerá la resitencia producida por el sensor y transformará el valor a grados.
+     
+  Función "asociarletra":
+    Esta función establecerá una relación entre grados y letras en el alfabeto de lenguaje de signos preestablecido.
+ 
+  Función "mostrarenpantalla":
